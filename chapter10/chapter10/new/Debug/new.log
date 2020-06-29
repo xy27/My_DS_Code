@@ -1,0 +1,6 @@
+﻿  main.cpp
+  new.cpp
+  new.h
+  正在生成代码...
+Debug\new.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  new.vcxproj -> D:\dashen\DS_Code\chapter10\chapter10\Debug\new.exe

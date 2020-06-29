@@ -1,0 +1,13 @@
+﻿  quick_sort.cpp
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(5): error C2065: “Sqlist”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(5): error C2065: “L”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(5): error C2062: 意外的类型“int”
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(6): error C2065: “Sqlist”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(6): error C2065: “L”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(6): error C2062: 意外的类型“int”
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(7): error C2065: “Sqlist”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(7): error C2065: “L”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(7): error C2062: 意外的类型“int”
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(8): error C2065: “Sqlist”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(8): error C2065: “L”: 未声明的标识符
+d:\dashen\ds_code\chapter10\chapter10\quick_sort\quick_sort.h(8): error C2182: “QuickSort”: 非法使用“void”类型
